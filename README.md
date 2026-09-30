@@ -30,21 +30,20 @@ This project explores a student survey dataset covering social media usage, addi
 - **Geography:** Platform preference varies notably by country — WhatsApp dominates in France and Switzerland, Instagram in Denmark, Turkey, and the USA, and TikTok in Canada and Spain.
 - **Demographics:** Most surveyed students are 20 years old; undergraduates show higher addiction levels than graduate or high school students.
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```
-├── social_media_addiction_analysis.ipynb   # Main analysis notebook
-├── data/                                   # Dataset (or link to source)
-├── README.md                               # Project overview
-└── requirements.txt                        # Dependencies
-```
+```text
+social-media-addiction-eda/
+│
+├── Social Media Addiction.ipynb   # Main analysis
+├── README.md                       # Project documentation
+└── requirements.txt                # Python dependencies
 
 ## 🚀 How to Run
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook social_media_addiction_analysis.ipynb
-```
+jupyter notebook "Social Media Addiction.ipynb"
 
 ## 📈 Conclusion
 
@@ -52,6 +51,5 @@ The analysis highlights a consistent relationship between heavy social media use
 
 ---
 
-**Author:** Vidushi
-*Statistics graduate | Data Analysis & Visualization*
-
+```markdown
+**Author:** Vidushi Tomar | M.Sc. Statistics | Data Analysis & Visualization
